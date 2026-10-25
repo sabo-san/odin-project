@@ -1,2 +1,0 @@
-# My odin project
-
